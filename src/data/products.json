@@ -1,0 +1,776 @@
+[
+  {
+    "id": "prod-1",
+    "slug": "aura-sound-max-anc-headphones",
+    "name": "AURA SoundMax Studio Pro Headphones",
+    "brand": "AURA Audio",
+    "description": "Flagship wireless noise-canceling headphones featuring 40mm beryllium drivers and 40-hour battery life.",
+    "fullDescription": "Experience acoustic perfection with the AURA SoundMax Studio Pro. Designed for audiophiles and digital creators alike, these headphones deliver ultra-low distortion, immersive active noise cancellation with adaptive transparency, and plush memory foam ear cushions for all-day comfort.",
+    "price": 349.99,
+    "originalPrice": 399.99,
+    "category": "audio",
+    "rating": 4.9,
+    "reviewCount": 248,
+    "stock": 24,
+    "isFeatured": true,
+    "isNew": true,
+    "images": [
+      {
+        "thumbnail": "/images/products/prod-1-400w.webp",
+        "medium": "/images/products/prod-1-800w.webp",
+        "large": "/images/products/prod-1-1200w.webp",
+        "alt": "AURA SoundMax Studio Pro Headphones Matte Black"
+      }
+    ],
+    "specifications": {
+      "Driver Size": "40mm Beryllium",
+      "Frequency Response": "5Hz - 40,000Hz",
+      "Battery Life": "40 Hours (ANC On)",
+      "Bluetooth": "v5.3 LE Audio",
+      "Weight": "250g"
+    },
+    "tags": ["audio", "wireless", "anc", "premium", "best-seller"],
+    "createdAt": "2026-01-15T08:00:00Z"
+  },
+  {
+    "id": "prod-2",
+    "slug": "zenith-chronos-titanium-smartwatch",
+    "name": "Zenith Chronos Titanium Smartwatch",
+    "brand": "Zenith Wearables",
+    "description": "Aerospace-grade titanium smartwatch with sapphire crystal lens, dual-frequency GPS, and 14-day battery.",
+    "fullDescription": "The Zenith Chronos combines haute horlogerie aesthetics with cutting-edge health biometrics. Featuring an ultra-bright 1000-nit AMOLED display, ECG monitoring, sleep architecture tracking, and 100m water resistance, it is built for mountain peaks and boardroom meetings alike.",
+    "price": 499.00,
+    "originalPrice": 549.00,
+    "category": "wearables",
+    "rating": 4.8,
+    "reviewCount": 189,
+    "stock": 12,
+    "isFeatured": true,
+    "isNew": false,
+    "images": [
+      {
+        "thumbnail": "/images/products/prod-2-400w.webp",
+        "medium": "/images/products/prod-2-800w.webp",
+        "large": "/images/products/prod-2-1200w.webp",
+        "alt": "Zenith Chronos Titanium Smartwatch Space Gray"
+      }
+    ],
+    "specifications": {
+      "Case Material": "Grade 5 Titanium",
+      "Display": "1.43\" AMOLED 466x466",
+      "Water Rating": "10 ATM / 100m",
+      "Battery": "14 Days Typical Use",
+      "Sensors": "Optical Heart Rate, SpO2, ECG, Altimeter"
+    },
+    "tags": ["wearables", "smartwatch", "titanium", "fitness", "featured"],
+    "createdAt": "2025-11-20T10:00:00Z"
+  },
+  {
+    "id": "prod-3",
+    "slug": "nebula-book-16-m3-ultra-laptop",
+    "name": "Nebula Book 16 Pro Creator Laptop",
+    "brand": "Nebula Computing",
+    "description": "16-inch 3.2K 120Hz Mini-LED laptop powered by 16-core processor, 32GB RAM, and 1TB Gen4 NVMe SSD.",
+    "fullDescription": "Designed for heavy video editing, 3D rendering, and software architecture. Nebula Book 16 Pro boasts factory-calibrated 100% DCI-P3 color precision, all-aluminum unibody construction, quiet vapor chamber cooling, and up to 18 hours of real-world productivity.",
+    "price": 1899.99,
+    "originalPrice": 2099.99,
+    "category": "computers",
+    "rating": 4.9,
+    "reviewCount": 312,
+    "stock": 8,
+    "isFeatured": true,
+    "isNew": true,
+    "images": [
+      {
+        "thumbnail": "/images/products/prod-3-400w.webp",
+        "medium": "/images/products/prod-3-800w.webp",
+        "large": "/images/products/prod-3-1200w.webp",
+        "alt": "Nebula Book 16 Pro Creator Laptop Space Silver"
+      }
+    ],
+    "specifications": {
+      "Processor": "16-Core Ultra CPU",
+      "GPU": "Dedicated 12GB VRAM",
+      "RAM": "32GB LPDDR5X",
+      "Storage": "1TB PCIe 4.0 SSD",
+      "Display": "16\" 3200x2000 120Hz Mini-LED"
+    },
+    "tags": ["computers", "laptop", "pro", "creator", "featured"],
+    "createdAt": "2026-02-01T12:00:00Z"
+  },
+  {
+    "id": "prod-4",
+    "slug": "lumix-lumina-full-frame-camera",
+    "name": "Lumina Mark V Full-Frame Mirrorless Camera",
+    "brand": "Lumina Optix",
+    "description": "45.7MP full-frame sensor camera with 8K 60fps RAW video recording and AI auto-focus subject detection.",
+    "fullDescription": "Capture unmatched clarity and cinematic storytelling. The Lumina Mark V features 5-axis 8.5-stop sensor-shift image stabilization, dual CFexpress Type-B slots, and weather-sealed magnesium alloy chassis.",
+    "price": 2499.00,
+    "originalPrice": 2699.00,
+    "category": "photography",
+    "rating": 4.9,
+    "reviewCount": 94,
+    "stock": 5,
+    "isFeatured": true,
+    "isNew": true,
+    "images": [
+      {
+        "thumbnail": "/images/products/prod-4-400w.webp",
+        "medium": "/images/products/prod-4-800w.webp",
+        "large": "/images/products/prod-4-1200w.webp",
+        "alt": "Lumina Mark V Full-Frame Camera Body"
+      }
+    ],
+    "specifications": {
+      "Sensor": "45.7MP Full-Frame BSI CMOS",
+      "Video": "8K 60p RAW / 4K 120p",
+      "AF System": "1053 Point Deep Learning AF",
+      "Stabilization": "8.5 Stops 5-Axis IBIS",
+      "Weight": "685g Body Only"
+    },
+    "tags": ["photography", "camera", "8k", "full-frame", "pro"],
+    "createdAt": "2026-01-28T09:30:00Z"
+  },
+  {
+    "id": "prod-5",
+    "slug": "cyber-deck-oled-curved-gaming-monitor",
+    "name": "Apex CyberDeck 34\" QD-OLED Curved Gaming Monitor",
+    "brand": "Apex Gaming",
+    "description": "34-inch UWQHD 240Hz 0.03ms QD-OLED ultra-wide gaming display with HDR1000 and USB-C 90W PD.",
+    "fullDescription": "Transform your battlespace with infinite contrast and lightning response. The Apex CyberDeck delivers vibrant quantum dot colors, G-Sync compatibility, custom heat dissipation, and integrated KVM switch.",
+    "price": 999.99,
+    "originalPrice": 1199.99,
+    "category": "gaming",
+    "rating": 4.8,
+    "reviewCount": 142,
+    "stock": 10,
+    "isFeatured": true,
+    "isNew": false,
+    "images": [
+      {
+        "thumbnail": "/images/products/prod-5-400w.webp",
+        "medium": "/images/products/prod-5-800w.webp",
+        "large": "/images/products/prod-5-1200w.webp",
+        "alt": "Apex CyberDeck 34 QD-OLED Curved Monitor"
+      }
+    ],
+    "specifications": {
+      "Panel Type": "Quantum Dot OLED",
+      "Resolution": "3440 x 1440 UWQHD",
+      "Refresh Rate": "240Hz",
+      "Response Time": "0.03ms (GtG)",
+      "Curvature": "1800R"
+    },
+    "tags": ["gaming", "monitor", "oled", "ultrawide", "240hz"],
+    "createdAt": "2025-12-10T14:15:00Z"
+  },
+  {
+    "id": "prod-6",
+    "slug": "aura-buds-air-pro-earbuds",
+    "name": "AURA AirBuds Ultra True Wireless",
+    "brand": "AURA Audio",
+    "description": "Compact IPX7 waterproof wireless earbuds with active noise isolation, spatial audio, and wireless charging case.",
+    "fullDescription": "Small footprint, colossal sound. AURA AirBuds Ultra features dual dynamic-armature drivers, head-tracking 3D spatial audio, and up to 32 hours total playback with sleek aluminum wireless charging case.",
+    "price": 149.99,
+    "originalPrice": 179.99,
+    "category": "audio",
+    "rating": 4.6,
+    "reviewCount": 420,
+    "stock": 35,
+    "isFeatured": false,
+    "isNew": true,
+    "images": [
+      {
+        "thumbnail": "/images/products/prod-6-400w.webp",
+        "medium": "/images/products/prod-6-800w.webp",
+        "large": "/images/products/prod-6-1200w.webp",
+        "alt": "AURA AirBuds Ultra TWS White Matte"
+      }
+    ],
+    "specifications": {
+      "Water Resistance": "IPX7",
+      "Battery Life": "8h + 24h Case",
+      "Spatial Audio": "Dynamic Head Tracking",
+      "Microphones": "6-Mic Beamforming",
+      "Codec Support": "LDAC, AAC, SBC"
+    },
+    "tags": ["audio", "earbuds", "tws", "spatial-audio"],
+    "createdAt": "2026-02-05T11:00:00Z"
+  },
+  {
+    "id": "prod-7",
+    "slug": "pulse-core-fitness-band",
+    "name": "Pulse Core Sleek Health Tracker",
+    "brand": "Zenith Wearables",
+    "description": "Ultra-lightweight screenless health band tracking HRV, recovery index, skin temperature, and sleep cycles.",
+    "fullDescription": "Designed for zero distraction. Pulse Core runs continuously without notifications, monitoring continuous vascular metrics, daily strain, and sleep debt with multi-day endurance.",
+    "price": 99.00,
+    "originalPrice": 129.00,
+    "category": "wearables",
+    "rating": 4.5,
+    "reviewCount": 167,
+    "stock": 18,
+    "isFeatured": false,
+    "isNew": false,
+    "images": [
+      {
+        "thumbnail": "/images/products/prod-7-400w.webp",
+        "medium": "/images/products/prod-7-800w.webp",
+        "large": "/images/products/prod-7-1200w.webp",
+        "alt": "Pulse Core Health Tracker Band Obsidian Black"
+      }
+    ],
+    "specifications": {
+      "Sensors": "Optical PPG, Galvanic Skin Response, 3-Axis Accel",
+      "Battery": "7 Days",
+      "Weight": "18 grams",
+      "Strap": "Waterproof Knit Nylon"
+    },
+    "tags": ["wearables", "fitness", "sleep", "recovery"],
+    "createdAt": "2025-10-14T15:20:00Z"
+  },
+  {
+    "id": "prod-8",
+    "slug": "keycraft-mechanical-keyboard-rgb",
+    "name": "KeyCraft HMX Custom Wireless Mechanical Keyboard",
+    "brand": "KeyCraft Lab",
+    "description": "Gasket-mounted hot-swappable 75% wireless mechanical keyboard with CNC aluminum top case and PBT keycaps.",
+    "fullDescription": "Satisfying acoustic clack meets premium craftsmanship. Features lubricated linear switches, tri-mode connection (Bluetooth 5.1 / 2.4GHz / USB-C), per-key RGB backlighting, and programmable VIA keymap support.",
+    "price": 169.99,
+    "originalPrice": 199.99,
+    "category": "computers",
+    "rating": 4.9,
+    "reviewCount": 280,
+    "stock": 15,
+    "isFeatured": false,
+    "isNew": false,
+    "images": [
+      {
+        "thumbnail": "/images/products/prod-8-400w.webp",
+        "medium": "/images/products/prod-8-800w.webp",
+        "large": "/images/products/prod-8-1200w.webp",
+        "alt": "KeyCraft HMX 75 Wireless Mechanical Keyboard"
+      }
+    ],
+    "specifications": {
+      "Layout": "75% Compact (82 Keys)",
+      "Switches": "Pre-lubed HMX Cream Linear",
+      "Connectivity": "2.4G / Bluetooth / Wired",
+      "Battery": "4000mAh (Up to 200h without RGB)"
+    },
+    "tags": ["computers", "keyboard", "mechanical", "custom"],
+    "createdAt": "2025-09-18T16:00:00Z"
+  },
+  {
+    "id": "prod-9",
+    "slug": "prism-prime-50mm-f12-lens",
+    "name": "Prism 50mm f/1.2 Ultra-Fast Prime Lens",
+    "brand": "Lumina Optix",
+    "description": "Professional 50mm lens rendering creamy bokeh, razor-sharp wide-open detail, and nano-crystal coating.",
+    "fullDescription": "The ultimate portrait optic. Engineered with 14 elements in 10 groups, extra-low dispersion glass, weather sealing, and dual linear STM autofocus motors for silent video acquisition.",
+    "price": 1299.00,
+    "originalPrice": 1399.00,
+    "category": "photography",
+    "rating": 4.9,
+    "reviewCount": 78,
+    "stock": 7,
+    "isFeatured": false,
+    "isNew": true,
+    "images": [
+      {
+        "thumbnail": "/images/products/prod-9-400w.webp",
+        "medium": "/images/products/prod-9-800w.webp",
+        "large": "/images/products/prod-9-1200w.webp",
+        "alt": "Prism 50mm f1.2 Lens Front View"
+      }
+    ],
+    "specifications": {
+      "Focal Length": "50mm",
+      "Max Aperture": "f/1.2",
+      "Filter Thread": "82mm",
+      "Minimum Focus": "0.4m",
+      "Weight": "810g"
+    },
+    "tags": ["photography", "lens", "bokeh", "portrait"],
+    "createdAt": "2026-01-10T13:45:00Z"
+  },
+  {
+    "id": "prod-10",
+    "slug": "haptic-pro-gaming-controller",
+    "name": "Apex Haptic Pro Wireless Gamepad",
+    "brand": "Apex Gaming",
+    "description": "Tournament-grade wireless controller with Hall Effect magnetic joysticks, microswitch triggers, and rear paddles.",
+    "fullDescription": "Eliminate stick drift forever. The Apex Haptic Pro features adjustable actuation triggers, dual-vibration rumble motors, customized button mapping via companion app, and 30-hour battery life.",
+    "price": 129.99,
+    "originalPrice": 149.99,
+    "category": "gaming",
+    "rating": 4.7,
+    "reviewCount": 310,
+    "stock": 22,
+    "isFeatured": false,
+    "isNew": false,
+    "images": [
+      {
+        "thumbnail": "/images/products/prod-10-400w.webp",
+        "medium": "/images/products/prod-10-800w.webp",
+        "large": "/images/products/prod-10-1200w.webp",
+        "alt": "Apex Haptic Pro Controller Matte White"
+      }
+    ],
+    "specifications": {
+      "Sticks": "Hall Effect Magnetic Sensing",
+      "Polling Rate": "1000Hz Ultra-fast",
+      "Compatibility": "PC, Steam Deck, Console",
+      "Weight": "240g"
+    },
+    "tags": ["gaming", "controller", "hall-effect", "esports"],
+    "createdAt": "2025-11-05T18:30:00Z"
+  },
+  {
+    "id": "prod-11",
+    "slug": "soundbar-cinema-714-dolby-atmos",
+    "name": "AURA Cinema 7.1.4 Dolby Atmos Soundbar System",
+    "brand": "AURA Audio",
+    "description": "High-fidelity soundbar with wireless 10\" subwoofer, up-firing height channels, and HDMI eARC.",
+    "fullDescription": "Bring movie theater acoustics home. The AURA Cinema 7.1.4 features 17 acoustic drivers, automated room calibration via smartphone mic, Apple AirPlay 2, Spotify Connect, and 820W total system power.",
+    "price": 799.99,
+    "originalPrice": 899.99,
+    "category": "audio",
+    "rating": 4.8,
+    "reviewCount": 115,
+    "stock": 6,
+    "isFeatured": false,
+    "isNew": false,
+    "images": [
+      {
+        "thumbnail": "/images/products/prod-11-400w.webp",
+        "medium": "/images/products/prod-11-800w.webp",
+        "large": "/images/products/prod-11-1200w.webp",
+        "alt": "AURA Cinema Soundbar System with Subwoofer"
+      }
+    ],
+    "specifications": {
+      "Total Power": "820 Watts",
+      "Audio Formats": "Dolby Atmos, DTS:X",
+      "Inputs": "HDMI eARC, Optical, Bluetooth 5.2",
+      "Subwoofer": "10\" Wireless Down-Firing"
+    },
+    "tags": ["audio", "home-theater", "dolby-atmos", "soundbar"],
+    "createdAt": "2025-08-22T09:00:00Z"
+  },
+  {
+    "id": "prod-12",
+    "slug": "ergo-mouse-master-3d",
+    "name": "ErgoGlide Precision Wireless Ergonomic Mouse",
+    "brand": "Nebula Computing",
+    "description": "Vertical ergonomic mouse designed to reduce wrist strain, with MagSpeed electromagnetic scrolling wheel.",
+    "fullDescription": "Work pain-free all day. Features a 57-degree natural hand position angle, 8000 DPI track-on-glass sensor, dual Bluetooth/LogiBolt connection, and rapid USB-C fast charging.",
+    "price": 99.99,
+    "originalPrice": 119.99,
+    "category": "computers",
+    "rating": 4.7,
+    "reviewCount": 512,
+    "stock": 40,
+    "isFeatured": false,
+    "isNew": false,
+    "images": [
+      {
+        "thumbnail": "/images/products/prod-12-400w.webp",
+        "medium": "/images/products/prod-12-800w.webp",
+        "large": "/images/products/prod-12-1200w.webp",
+        "alt": "ErgoGlide Precision Ergonomic Mouse Charcoal"
+      }
+    ],
+    "specifications": {
+      "Sensor": "8000 DPI Optical",
+      "Angle": "57° Ergonomic Vertical Lift",
+      "Battery": "70 Days Full Charge",
+      "Weight": "141g"
+    },
+    "tags": ["computers", "mouse", "ergonomic", "productivity"],
+    "createdAt": "2025-07-30T14:00:00Z"
+  },
+  {
+    "id": "prod-13",
+    "slug": "skydron-4k-cinema-drone",
+    "name": "AeroView 4K HDR Foldable Cinema Drone",
+    "brand": "Lumina Optix",
+    "description": "Under-249g foldable drone with 1/1.3\" CMOS 4K HDR camera, 3-axis gimbal, and 38-minute flight time.",
+    "fullDescription": "No FAA registration required in many jurisdictions. AerosView 4K shoots crisp 60fps video with omnidirectional obstacle avoidance, 10km HD transmission range, and intelligent tracking modes.",
+    "price": 649.00,
+    "originalPrice": 729.00,
+    "category": "photography",
+    "rating": 4.8,
+    "reviewCount": 140,
+    "stock": 9,
+    "isFeatured": false,
+    "isNew": true,
+    "images": [
+      {
+        "thumbnail": "/images/products/prod-13-400w.webp",
+        "medium": "/images/products/prod-13-800w.webp",
+        "large": "/images/products/prod-13-1200w.webp",
+        "alt": "AeroView 4K Foldable Cinema Drone"
+      }
+    ],
+    "specifications": {
+      "Camera": "4K/60fps 48MP 1/1.3\" Sensor",
+      "Flight Time": "38 Minutes",
+      "Range": "10km OcuSync Video Feed",
+      "Weight": "249 grams"
+    },
+    "tags": ["photography", "drone", "4k", "cinematic"],
+    "createdAt": "2026-01-20T10:15:00Z"
+  },
+  {
+    "id": "prod-14",
+    "slug": "titan-portable-ssd-2tb",
+    "name": "TitanSpeed 2TB Rugged External NVMe SSD",
+    "brand": "Nebula Computing",
+    "description": "Ultra-fast 2000MB/s USB 3.2 Gen 2x2 portable SSD with IP65 dust/water resistance and 3m drop protection.",
+    "fullDescription": "Blazing fast storage built for field videographers and power users. Enclosed in a thermal-efficient rubberized aluminum casing with hardware AES 256-bit encryption.",
+    "price": 189.99,
+    "originalPrice": 219.99,
+    "category": "computers",
+    "rating": 4.9,
+    "reviewCount": 380,
+    "stock": 28,
+    "isFeatured": false,
+    "isNew": false,
+    "images": [
+      {
+        "thumbnail": "/images/products/prod-14-400w.webp",
+        "medium": "/images/products/prod-14-800w.webp",
+        "large": "/images/products/prod-14-1200w.webp",
+        "alt": "TitanSpeed 2TB Portable SSD Rugged Orange"
+      }
+    ],
+    "specifications": {
+      "Capacity": "2 Terabytes",
+      "Read Speed": "Up to 2000 MB/s",
+      "Interface": "USB 3.2 Gen 2x2 (Type-C)",
+      "Protection": "IP65 Water/Dust, 3m Drop Dropproof"
+    },
+    "tags": ["computers", "storage", "ssd", "rugged"],
+    "createdAt": "2025-10-01T12:00:00Z"
+  },
+  {
+    "id": "prod-15",
+    "slug": "apex-comfort-ergo-chair",
+    "name": "Apex Throne Pro Mesh Gaming & Office Chair",
+    "brand": "Apex Gaming",
+    "description": "Ergonomic mesh chair with 4D lumbar support, 135-degree recline, and adjustable headrest.",
+    "fullDescription": "Say goodbye to back fatigue. Apex Throne Pro features breathable Korean elastomer mesh, heavy-duty aluminum base, 3D armrests, and dynamic self-adjusting lumbar curvature.",
+    "price": 389.99,
+    "originalPrice": 449.99,
+    "category": "gaming",
+    "rating": 4.6,
+    "reviewCount": 204,
+    "stock": 0,
+    "isFeatured": false,
+    "isNew": false,
+    "images": [
+      {
+        "thumbnail": "/images/products/prod-15-400w.webp",
+        "medium": "/images/products/prod-15-800w.webp",
+        "large": "/images/products/prod-15-1200w.webp",
+        "alt": "Apex Throne Pro Ergonomic Mesh Chair Stealth Black"
+      }
+    ],
+    "specifications": {
+      "Material": "Breathable Elastomer Mesh",
+      "Max Capacity": "150kg / 330 lbs",
+      "Recline": "90° - 135° Sync-tilt",
+      "Base": "Class-4 Gas Lift Aluminum Base"
+    },
+    "tags": ["gaming", "chair", "ergonomic", "mesh"],
+    "createdAt": "2025-06-15T08:30:00Z"
+  },
+  {
+    "id": "prod-16",
+    "slug": "pulse-vibe-360-speaker",
+    "name": "AURA PulseVibe 360 Portable Speaker",
+    "brand": "AURA Audio",
+    "description": "360-degree room-filling Bluetooth speaker with IP67 rating, party link mode, and integrated ambient light ring.",
+    "fullDescription": "Punchy bass in a drop-proof canister. Features dual passive radiators, 24-hour battery endurance, power bank USB-A port to charge phones, and customizable LED beat pulse mode.",
+    "price": 119.99,
+    "originalPrice": 139.99,
+    "category": "audio",
+    "rating": 4.7,
+    "reviewCount": 230,
+    "stock": 19,
+    "isFeatured": false,
+    "isNew": false,
+    "images": [
+      {
+        "thumbnail": "/images/products/prod-16-400w.webp",
+        "medium": "/images/products/prod-16-800w.webp",
+        "large": "/images/products/prod-16-1200w.webp",
+        "alt": "AURA PulseVibe 360 Speaker Midnight Blue"
+      }
+    ],
+    "specifications": {
+      "Battery": "24 Hours (7500mAh)",
+      "Output": "45W RMS Power",
+      "Protection": "IP67 Waterproof & Dustproof",
+      "Weight": "720g"
+    },
+    "tags": ["audio", "speaker", "bluetooth", "waterproof"],
+    "createdAt": "2025-09-01T11:20:00Z"
+  },
+  {
+    "id": "prod-17",
+    "slug": "ar-vision-glasses-gen2",
+    "name": "Vortex AR Glasses Gen 2",
+    "brand": "Zenith Wearables",
+    "description": "Lightweight 75g Micro-OLED augmented reality glasses projecting a virtual 201-inch screen at 120Hz.",
+    "fullDescription": "Plug and play giant display wherever you go. Vortex AR connects seamlessly to laptops, smartphones, and consoles for immersive gaming, private movie watching, and multi-monitor workspace productivity.",
+    "price": 399.00,
+    "originalPrice": 449.00,
+    "category": "wearables",
+    "rating": 4.6,
+    "reviewCount": 98,
+    "stock": 11,
+    "isFeatured": false,
+    "isNew": true,
+    "images": [
+      {
+        "thumbnail": "/images/products/prod-17-400w.webp",
+        "medium": "/images/products/prod-17-800w.webp",
+        "large": "/images/products/prod-17-1200w.webp",
+        "alt": "Vortex AR Glasses Gen 2 Black"
+      }
+    ],
+    "specifications": {
+      "Display": "Dual Sony Micro-OLED 1080p",
+      "Virtual Screen": "201\" at 6 meters",
+      "Refresh Rate": "120Hz",
+      "Weight": "75 grams"
+    },
+    "tags": ["wearables", "ar", "glasses", "micro-oled"],
+    "createdAt": "2026-02-10T16:00:00Z"
+  },
+  {
+    "id": "prod-18",
+    "slug": "gimbal-pro-handheld-stabilizer",
+    "name": "SteadyCam Pro 3-Axis Gimbal Stabilizer",
+    "brand": "Lumina Optix",
+    "description": "Heavy-duty camera stabilizer supporting payloads up to 4.5kg with automated axis locks and OLED touch screen.",
+    "fullDescription": "Silky smooth tracking shots for cinema cameras and DSLRs. Built-in focus wheel, Bluetooth shutter control, carbon fiber axis arms, and 12-hour continuous battery operation.",
+    "price": 429.00,
+    "originalPrice": 499.00,
+    "category": "photography",
+    "rating": 4.8,
+    "reviewCount": 86,
+    "stock": 14,
+    "isFeatured": false,
+    "isNew": false,
+    "images": [
+      {
+        "thumbnail": "/images/products/prod-18-400w.webp",
+        "medium": "/images/products/prod-18-800w.webp",
+        "large": "/images/products/prod-18-1200w.webp",
+        "alt": "SteadyCam Pro 3-Axis Gimbal"
+      }
+    ],
+    "specifications": {
+      "Payload Capacity": "4.5kg / 9.9 lbs",
+      "Battery Life": "12 Hours",
+      "Display": "1.8\" Color OLED Touch",
+      "Material": "Carbon Fiber Arms"
+    },
+    "tags": ["photography", "gimbal", "stabilizer", "video"],
+    "createdAt": "2025-10-18T14:10:00Z"
+  },
+  {
+    "id": "prod-19",
+    "slug": "apex-handheld-gaming-pc",
+    "name": "Apex Go Handheld Gaming PC 64GB",
+    "brand": "Apex Gaming",
+    "description": "7-inch 144Hz VRR touch handheld PC with 8-core RDNA3 graphics, 32GB LPDDR5X, and detachable controllers.",
+    "fullDescription": "Play AAA games anywhere. Apex Go runs full Windows 11 with custom launcher overlay, dual USB4 ports, microSD expansion, and ergonomic contoured grip for long sessions.",
+    "price": 699.99,
+    "originalPrice": 799.99,
+    "category": "gaming",
+    "rating": 4.7,
+    "reviewCount": 175,
+    "stock": 8,
+    "isFeatured": false,
+    "isNew": true,
+    "images": [
+      {
+        "thumbnail": "/images/products/prod-19-400w.webp",
+        "medium": "/images/products/prod-19-800w.webp",
+        "large": "/images/products/prod-19-1200w.webp",
+        "alt": "Apex Go Handheld Gaming PC"
+      }
+    ],
+    "specifications": {
+      "Screen": "7\" FHD 144Hz VRR IPS Touch",
+      "APU": "8-Core 16-Thread RDNA3",
+      "Memory": "32GB LPDDR5X-7500",
+      "Storage": "1TB M.2 2230 NVMe SSD"
+    },
+    "tags": ["gaming", "handheld", "pc", "portable"],
+    "createdAt": "2026-01-05T09:00:00Z"
+  },
+  {
+    "id": "prod-20",
+    "slug": "studio-light-led-cob-200w",
+    "name": "Lumina Beam 200W Bi-Color Studio Light",
+    "brand": "Lumina Optix",
+    "description": "High-CRI 97+ studio LED video light with Bowens mount, silent fan mode, and wireless app control.",
+    "fullDescription": "Flicker-free professional illumination. Temperature adjustable from 2700K to 6500K with 9 special effect presets, DMX control support, and lightweight aluminum housing.",
+    "price": 289.00,
+    "originalPrice": 329.00,
+    "category": "photography",
+    "rating": 4.9,
+    "reviewCount": 64,
+    "stock": 16,
+    "isFeatured": false,
+    "isNew": false,
+    "images": [
+      {
+        "thumbnail": "/images/products/prod-20-400w.webp",
+        "medium": "/images/products/prod-20-800w.webp",
+        "large": "/images/products/prod-20-1200w.webp",
+        "alt": "Lumina Beam 200W Bi-Color Studio Light"
+      }
+    ],
+    "specifications": {
+      "Power": "200W COB LED",
+      "Color Temp": "2700K - 6500K",
+      "CRI / TLCI": "97+ / 98+",
+      "Mount": "Standard Bowens S-Mount"
+    },
+    "tags": ["photography", "studio", "lighting", "video"],
+    "createdAt": "2025-08-10T17:00:00Z"
+  },
+  {
+    "id": "prod-21",
+    "slug": "nebula-dock-thunderbolt-4",
+    "name": "Nebula UltraDock 14-in-1 Thunderbolt 4 Hub",
+    "brand": "Nebula Computing",
+    "description": "Dual 4K 60Hz Thunderbolt 4 dock providing 96W pass-through charging, 2.5GbE LAN, and SD 4.0 card reader.",
+    "fullDescription": "Simplify your desk with single-cable connectivity. Connect dual external 4K monitors, high-speed peripherals, audio equipment, and Gigabit ethernet with zero speed throttling.",
+    "price": 219.99,
+    "originalPrice": 249.99,
+    "category": "computers",
+    "rating": 4.8,
+    "reviewCount": 150,
+    "stock": 21,
+    "isFeatured": false,
+    "isNew": false,
+    "images": [
+      {
+        "thumbnail": "/images/products/prod-21-400w.webp",
+        "medium": "/images/products/prod-21-800w.webp",
+        "large": "/images/products/prod-21-1200w.webp",
+        "alt": "Nebula UltraDock 14-in-1 Thunderbolt 4 Hub"
+      }
+    ],
+    "specifications": {
+      "Ports": "3x TB4, 4x USB-A 10Gbps, 2.5G LAN, HDMI 2.1, SD/microSD, Audio",
+      "Power Delivery": "96W Host Charging",
+      "Display Support": "Dual 4K 60Hz / Single 8K 30Hz"
+    },
+    "tags": ["computers", "dock", "thunderbolt4", "workspace"],
+    "createdAt": "2025-11-30T12:00:00Z"
+  },
+  {
+    "id": "prod-22",
+    "slug": "apex-wireless-headset-71",
+    "name": "Apex Void Wireless 7.1 Surround Headset",
+    "brand": "Apex Gaming",
+    "description": "Low-latency 2.4GHz gaming headset with planar magnetic drivers and detachable broadcast microphone.",
+    "fullDescription": "Spatial awareness taken to the next level. Planar magnetic drivers deliver unmatched positional audio detail with zero harmonic distortion and dual wireless Bluetooth/2.4G connectivity.",
+    "price": 179.99,
+    "originalPrice": 199.99,
+    "category": "gaming",
+    "rating": 4.7,
+    "reviewCount": 215,
+    "stock": 17,
+    "isFeatured": false,
+    "isNew": false,
+    "images": [
+      {
+        "thumbnail": "/images/products/prod-22-400w.webp",
+        "medium": "/images/products/prod-22-800w.webp",
+        "large": "/images/products/prod-22-1200w.webp",
+        "alt": "Apex Void Wireless Gaming Headset Black/Red"
+      }
+    ],
+    "specifications": {
+      "Drivers": "90mm Planar Magnetic",
+      "Latency": "< 15ms Ultra Low Latency",
+      "Battery": "50 Hours",
+      "Weight": "310g"
+    },
+    "tags": ["gaming", "headset", "audio", "wireless"],
+    "createdAt": "2025-10-25T15:45:00Z"
+  },
+  {
+    "id": "prod-23",
+    "slug": "aura-studio-monitors-pair",
+    "name": "AURA Reference 5 Active Studio Monitors (Pair)",
+    "brand": "AURA Audio",
+    "description": "Bi-amplified 70W nearfield studio monitor speakers with Kevlar woofer and room acoustics EQ.",
+    "fullDescription": "Hear every detail of your mix exactly as intended. Featuring 5-inch woven Kevlar low-frequency drivers, 1-inch silk dome tweeters, and room tuning acoustic boundary controls.",
+    "price": 299.99,
+    "originalPrice": 349.99,
+    "category": "audio",
+    "rating": 4.9,
+    "reviewCount": 108,
+    "stock": 10,
+    "isFeatured": false,
+    "isNew": false,
+    "images": [
+      {
+        "thumbnail": "/images/products/prod-23-400w.webp",
+        "medium": "/images/products/prod-23-800w.webp",
+        "large": "/images/products/prod-23-1200w.webp",
+        "alt": "AURA Reference 5 Studio Monitors Pair"
+      }
+    ],
+    "specifications": {
+      "Power": "70W Bi-Amped Class D",
+      "Frequency": "52Hz - 35kHz",
+      "Woofer": "5\" Woven Kevlar",
+      "Inputs": "XLR / 1/4\" TRS Balanced"
+    },
+    "tags": ["audio", "studio", "monitors", "speakers"],
+    "createdAt": "2025-07-12T10:00:00Z"
+  },
+  {
+    "id": "prod-24",
+    "slug": "chronos-classic-automatic-watch",
+    "name": "Zenith Chronos Heritage Mechanical Watch",
+    "brand": "Zenith Wearables",
+    "description": "Swiss automatic movement luxury watch with skeleton caseback, 42h power reserve, and Italian leather strap.",
+    "fullDescription": "Timeless mechanical elegance. Hand-assembled with 26 jewels, self-winding mechanical movement operating at 28,800 vph, anti-reflective sapphire glass, and stitched full-grain calfskin band.",
+    "price": 849.00,
+    "originalPrice": 949.00,
+    "category": "wearables",
+    "rating": 4.9,
+    "reviewCount": 72,
+    "stock": 4,
+    "isFeatured": false,
+    "isNew": false,
+    "images": [
+      {
+        "thumbnail": "/images/products/prod-24-400w.webp",
+        "medium": "/images/products/prod-24-800w.webp",
+        "large": "/images/products/prod-24-1200w.webp",
+        "alt": "Zenith Chronos Heritage Watch Silver Dial"
+      }
+    ],
+    "specifications": {
+      "Movement": "Swiss Automatic 28,800 vph",
+      "Case Diameter": "40mm 316L Stainless Steel",
+      "Power Reserve": "42 Hours",
+      "Strap": "20mm Genuine Italian Leather"
+    },
+    "tags": ["wearables", "watch", "luxury", "mechanical"],
+    "createdAt": "2025-09-25T11:30:00Z"
+  }
+]
